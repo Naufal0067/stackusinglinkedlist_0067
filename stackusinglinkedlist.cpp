@@ -22,5 +22,8 @@ public:
         top = NULL; // intialize the stack with a null yop pointer
     }
 
-    
+    // pop operation: remove the topmost element from the stack
+    void pop() {
+        
+    }
 }
