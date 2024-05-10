@@ -44,6 +44,11 @@ public:
                 current = current->next; 
             }
             cout << endl;
-        }
+        }// return the value of the top node
+    }
+
+    // isEmpty operayion: check if the stack is empty
+    bool isEmpty() {
+        
     }
 }
