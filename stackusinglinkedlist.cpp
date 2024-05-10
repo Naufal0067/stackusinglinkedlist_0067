@@ -21,4 +21,6 @@ public:
     Stack() {
         top = NULL; // intialize the stack with a null yop pointer
     }
+
+    
 }
